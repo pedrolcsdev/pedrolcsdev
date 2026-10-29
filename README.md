@@ -1,97 +1,208 @@
-<!-- GitHub Profile README | Replace the contact placeholders before publishing. -->
 
 <div align="center">
-  <p><samp>SOFTWARE ENGINEERING &nbsp; / &nbsp; BACK-END DEVELOPMENT</samp></p>
 
-  <h1>Pedro.</h1>
-  <h3>Building what you don't see.</h3>
+  <samp>SOFTWARE ENGINEERING · BACK-END DEVELOPMENT</samp>
+
+  # Pedro Lucas
+
+  ### Building what you don't see.
 
   <p>
-    I build the logic behind digital experiences — from APIs and databases<br/>
-    to the details that make a product actually work.
+    Software Engineering Student · Back-end Developer · Brazil 🇧🇷
   </p>
 
   <p>
-    <a href="#get-about">About</a> &nbsp;·&nbsp;
-    <a href="#get-stack">Stack</a> &nbsp;·&nbsp;
-    <a href="#get-projects">Projects</a> &nbsp;·&nbsp;
-    <a href="#get-connect">Connect</a>
+    Building APIs, designing databases and creating the systems<br/>
+    that power digital experiences.
   </p>
+
+  <a href="https://github.com/pedrolcsdev">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://pedrolcs.dev">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
 </div>
 
 ---
 
-### `GET /about`
+### `GET /about-me`
 
-Software Engineering student and developer focused on **Java, Spring Boot and back-end development**.
+I'm **Pedro**, a Software Engineering student and developer focused on **back-end development**.
 
-I like understanding how things work under the hood: business rules, data modeling, API design and the connection between different parts of a system. I'm also taking my first steps into **Artificial Intelligence** — especially machine learning and AI agents.
+I enjoy understanding what happens behind the interface — from business logic and REST APIs to database modeling and system architecture.
 
-**Right now:** building real-world applications, strengthening my software engineering fundamentals and learning something new with every project.
+Currently, I'm working on real-world software projects while improving my skills in **Java, Spring Boot and PostgreSQL**.
 
-### `GET /stack`
+I'm also exploring **Artificial Intelligence**, particularly Machine Learning and AI Agents.
 
-**Main focus**
+```json
+{
+  "name": "Pedro Lucas",
+  "role": "Back-end Developer",
+  "location": "Brazil",
+  "focus": ["Java", "Spring Boot", "REST APIs"],
+  "currentlyLearning": ["Software Architecture", "AI"],
+  "status": "Always building"
+}
+```
 
-![Java](https://img.shields.io/badge/Java-161616?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-161616?style=flat-square&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161616?style=flat-square&logo=postgresql&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-161616?style=flat-square&logo=hibernate&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-161616?style=flat-square&logoColor=white)
+---
 
-**Also working with**
+### `GET /tech-stack`
 
-![TypeScript](https://img.shields.io/badge/TypeScript-262626?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-262626?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-262626?style=flat-square&logo=nextdotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-262626?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-262626?style=flat-square&logo=docker&logoColor=white)
+**Back-end & Databases**
 
-**Exploring next:** Machine Learning · AI Agents · Computer Vision
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql&theme=dark" />
+</p>
 
-### `GET /projects`
+`Java` · `Spring Boot` · `Spring Data JPA` · `Hibernate` · `REST APIs` · `PostgreSQL` · `MySQL`
+
+**Front-end**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" />
+</p>
+
+`HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `Tailwind CSS`
+
+**AI & Data — Exploring**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sklearn&theme=dark" />
+</p>
+
+`Python` · `Pandas` · `Scikit-learn` · `Machine Learning`
+
+---
+
+### `GET /developer-tools`
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode,postman&theme=dark" />
+</p>
+
+`Git` · `GitHub` · `Docker` · `IntelliJ IDEA` · `VS Code` · `Postman` · `DBeaver`
+
+---
+
+### `GET /featured-projects`
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <sub>01 / RESERVATION PLATFORM</sub>
+      <sub>01 / BACK-END DEVELOPMENT</sub>
       <h3>SP Spaces</h3>
-      <p>Platform for discovering and reserving spaces. Working on back-end features, REST endpoints, data models and application integration.</p>
-      <p><code>Java</code> <code>Spring Boot</code> <code>JPA</code> <code>PostgreSQL</code></p>
-      <sub>Team project · In development</sub>
+      <p>
+        A space reservation platform with REST APIs,
+        business rules, availability management
+        and database integration.
+      </p>
+      <p>
+        <code>Java</code>
+        <code>Spring Boot</code>
+        <code>PostgreSQL</code>
+        <code>JPA</code>
+      </p>
+      <sub>Team project · In development · Private repository</sub>
     </td>
     <td width="50%" valign="top">
-      <sub>02 / PORT OPERATIONS</sub>
+      <sub>02 / SOFTWARE ENGINEERING</sub>
       <h3>Port Management Platform</h3>
-      <p>Institutional project for port-related workflows, including interface development and registration experiences.</p>
-      <p><code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>HeroUI</code></p>
+      <p>
+        An institutional platform focused on port
+        operations, registration workflows and
+        digital process management.
+      </p>
+      <p>
+        <code>Next.js</code>
+        <code>React</code>
+        <code>TypeScript</code>
+        <code>HeroUI</code>
+      </p>
       <sub>Team project · In development</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>03 / MACHINE LEARNING</sub>
+      <h3>Score Credit AI</h3>
+      <p>
+        Credit score classification using machine
+        learning models, including Random Forest
+        and K-Nearest Neighbors.
+      </p>
+      <p>
+        <code>Python</code>
+        <code>Pandas</code>
+        <code>Scikit-learn</code>
+      </p>
+      <a href="https://github.com/pedrolcsdev/score-credit-ai">View Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <sub>04 / HACKATHON</sub>
+      <h3>Transparency Portal</h3>
+      <p>
+        A redesigned government transparency portal
+        focused on making public information more
+        intuitive and accessible.
+      </p>
+      <p>
+        <code>HTML</code>
+        <code>CSS</code>
+        <code>JavaScript</code>
+      </p>
+      <a href="https://github.com/pedrolcsdev/hackathon-transparencia">View Repository</a>
     </td>
   </tr>
 </table>
 
-**03 / Personal Portfolio — in progress**  
-An API-inspired portfolio with an interface influenced by developer tools: routes, requests and clean, intentional interactions.  
-`Next.js` · `React` · `Tailwind CSS`
+---
 
-<!-- Add links to project repositories or demos here once they are public. -->
+### `GET /github-stats`
 
-### `GET /currently-building`
+<div align="center">
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pedrolcsdev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9ca3af&icon_color=ffffff" />
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolcsdev&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9ca3af" />
+
+</div>
+
+---
+
+### `GET /currently-learning`
 
 ```text
-[01] Sharpening my Java + Spring Boot fundamentals
-[02] Building real applications, not just tutorials
-[03] Exploring AI through small, hands-on projects
+[01] Java & Spring Boot fundamentals
+[02] Software architecture and clean code
+[03] REST APIs and database design
+[04] Machine Learning & AI Agents
+[05] Building practical projects
 ```
+
+---
 
 ### `GET /connect`
 
-Interested in back-end development, thoughtful products and learning in public.
+I'm always interested in learning, building meaningful projects and connecting with other developers.
 
-[LinkedIn](https://www.linkedin.com/in/SEU_USUARIO/) · [Email](mailto:SEU_EMAIL)
+**GitHub:** [@pedrolcsdev](https://github.com/pedrolcsdev)
+
+**Portfolio:** [pedrolcs.dev](https://pedrolcs.dev)
 
 ---
 
 <div align="center">
-  <samp>200 OK &nbsp;·&nbsp; Keep building.</samp>
+
+  <samp>HTTP/1.1 200 OK</samp>
+
+  <br/>
+
+  <samp>Keep learning. Keep building.</samp>
+
 </div>
+  
